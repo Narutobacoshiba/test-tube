@@ -1,0 +1,5 @@
+{
+    "rust-analyzer.linkedProjects": [
+        "./packages/test-tube/Cargo.toml"
+    ]
+}

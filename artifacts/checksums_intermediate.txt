@@ -1,0 +1,2 @@
+fbb415000e4210e470330386756b24dcfaf9010d684ab00d77d7f9d917a7a802  /target/wasm32-unknown-unknown/release/listener.wasm
+3838842b0ee11ea0ccd10bb9fe836737da27a87b255869cdc53b93ddeae69d43  /target/wasm32-unknown-unknown/release/spend_limit.wasm
